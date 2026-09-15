@@ -1,0 +1,11 @@
+# Local editing documents and preview artifacts
+*.docx
+*.tmp
+*.log
+*.pid
+__pycache__/
+checks/
+personal-website-handoff.md
+preview_server.py
+check_*.py
+site/divider-picker.html

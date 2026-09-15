@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hubertplisiecki.com/sitemap.xml
