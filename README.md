@@ -9,6 +9,7 @@ Bilingual static website at https://hubertplisiecki.com, hosted on GitHub Pages.
 - `site/style.css`: layout and typography.
 - `site/space.js`: scroll-driven word animation.
 - `site/language.js`: language preference.
+- `site/favicon.svg`: editable source for the existing “hp” favicon; `site/favicon.png` (96×96) and `site/favicon.ico` (16, 32, 48, and 64px) are its exported assets, linked from both pages.
 
 The website requires no build step or external runtime dependencies. Word editing documents, draft handoff, local checks and preview logs are kept outside version control.
 
